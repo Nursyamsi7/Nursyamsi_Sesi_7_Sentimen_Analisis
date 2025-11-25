@@ -8,7 +8,7 @@ Tujuan dari repository ini adalah untuk memenuhi tugas Sesi 7, yaitu menggabungk
 
 ## Isi Repository
 
-* **`Heriswaya_Sesi_7_Sentimen_Analisis.ipynb`**: File Jupyter Notebook / Google Colab utama yang berisi gabungan dari dua latihan:
+* **`Nursyamsi_Sesi_7_Sentimen_Analisis.ipynb`**: File Jupyter Notebook / Google Colab utama yang berisi gabungan dari dua latihan:
     1.  Analisis Sentimen dengan Bag-of-Words (BoW)
     2.  Analisis Sentimen dengan TF-IDF
 
@@ -24,3 +24,4 @@ File notebook ini merangkum dua metode vektorisasi teks utama untuk tugas Analis
 1.  Clone repository ini atau unduh file `.ipynb` di atas.
 2.  Buka file `.ipynb` menggunakan Jupyter Notebook, JupyterLab, atau Google Colab.
 3.  Jalankan sel kode dari atas ke bawah (`Runtime > Run all`) untuk melihat proses dan output dari kedua metode.
+
